@@ -32,8 +32,6 @@ Precision	91.8%
 Recall	90.9%
 F1 Score	91.35%
 
-✅ Real-time predictions tested using OpenCV webcam integration.
-
 🔥 How to Run
 Clone this repository:
 git clone https://github.com/yourusername/cat-vs-dog-classification.git
