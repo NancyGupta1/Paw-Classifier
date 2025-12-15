@@ -33,11 +33,7 @@ Recall	90.9%
 F1 Score	91.35%
 
 🔥 How to Run
-Clone this repository:
-git clone https://github.com/yourusername/cat-vs-dog-classification.git
-cd cat-vs-dog-classification
 
-OR
 download the file and dataset then run on Google Collab.
 
 Install dependencies:
